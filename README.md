@@ -1,1 +1,2 @@
 # gmp
+baris baru donk
