@@ -1,3 +1,3 @@
 # gmp
-baris baru donk
+baris baru donk /n
 baris kedua
